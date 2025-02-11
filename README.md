@@ -13,6 +13,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
