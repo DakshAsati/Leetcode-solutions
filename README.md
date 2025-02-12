@@ -15,6 +15,7 @@
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
