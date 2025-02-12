@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -114,5 +116,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
