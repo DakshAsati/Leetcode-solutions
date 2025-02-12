@@ -24,6 +24,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
