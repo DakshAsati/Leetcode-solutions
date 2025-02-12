@@ -107,4 +107,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
