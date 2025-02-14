@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0908-middle-of-the-linked-list](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0908-middle-of-the-linked-list](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
