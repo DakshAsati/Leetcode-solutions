@@ -26,10 +26,7 @@ class Solution {
     }
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
-
-
         preorder(root,ans);
-       
         return ans;
         
     }
