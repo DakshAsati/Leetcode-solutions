@@ -42,24 +42,6 @@ class Solution {
         return true;
     }
 
-    public boolean hasTwoConsecutivePairs(ListNode head) {
-        if (head == null || head.next == null) return false;
-
-        ListNode temp = head;
-        int count = 0;
-
-        while (temp != null && temp.next != null) { // Fix: Use '&&' instead of '||'
-            if (temp.val == temp.next.val) {
-                count++;
-                temp = temp.next; // Skip one node ahead to avoid duplicate counting
-            }
-            temp = temp.next;
-
-            if (count == 2) return true;
-        }
-
-        return false;
-    }
 
     private boolean isPalindrome(List<Integer> list) { // Helper function for symmetry check
         int left = 0, right = list.size() - 1;
