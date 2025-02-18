@@ -15,6 +15,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -52,6 +53,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -92,6 +94,7 @@
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0274-h-index) |
+| [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## Counting Sort
 |  |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
