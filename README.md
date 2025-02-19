@@ -36,6 +36,7 @@
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
@@ -71,6 +72,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Divide and Conquer
@@ -165,6 +168,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
