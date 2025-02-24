@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -268,4 +270,8 @@
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
