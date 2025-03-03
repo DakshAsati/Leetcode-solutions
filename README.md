@@ -78,6 +78,7 @@
 | [0542-01-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0724-find-pivot-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
