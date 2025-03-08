@@ -55,6 +55,7 @@
 | [0031-next-permutation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -202,6 +204,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
