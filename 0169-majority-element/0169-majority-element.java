@@ -9,7 +9,6 @@ class Solution {
                 candidate = num;
             }
 
-            
             if(num == candidate){
                 count++;
             }else{
@@ -18,8 +17,7 @@ class Solution {
         }
 
             return candidate;
-
         }
         
-}
     
+}
