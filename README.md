@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0135-candy) |
@@ -364,6 +366,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
