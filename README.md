@@ -93,6 +93,7 @@
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
