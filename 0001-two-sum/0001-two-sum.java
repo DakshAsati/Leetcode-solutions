@@ -10,13 +10,9 @@ class Solution {
             if(map.containsKey(complement)){
                 return new int[]{map.get(complement),i};
             }
-
             map.put(nums[i],i);
         }
-
         return new int[]{};
-
-
         
     }
 }
