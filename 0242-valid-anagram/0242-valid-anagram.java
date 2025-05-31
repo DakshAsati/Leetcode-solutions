@@ -3,12 +3,11 @@ class Solution {
         char[] schars = s.toCharArray();
         char[] tchars = t.toCharArray();
 
+
         Arrays.sort(schars);
         Arrays.sort(tchars);
 
-
-        return Arrays.equals(schars, tchars);
-
+        return Arrays.equals(schars,tchars);
         
     }
 }
