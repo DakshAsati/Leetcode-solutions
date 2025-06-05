@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -352,6 +356,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
