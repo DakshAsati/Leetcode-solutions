@@ -52,6 +52,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@
 | [0057-insert-interval](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
