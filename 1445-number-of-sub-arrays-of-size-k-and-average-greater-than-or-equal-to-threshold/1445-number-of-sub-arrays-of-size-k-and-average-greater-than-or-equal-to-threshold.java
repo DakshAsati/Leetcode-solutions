@@ -3,25 +3,26 @@ class Solution {
 
         int windowsum = 0;
         int n = arr.length;
-        int count = 0; // Moved and initialized here
+        int count = 0;
+        
 
-        for (int i = 0; i < k; i++) {
+        for(int i = 0 ; i < k; i++){
             windowsum += arr[i];
+
         }
 
-        // Check the first window
-        if (windowsum / k >= threshold) {
+        if(windowsum / k >= threshold){
             count++;
         }
+           
 
-        // Slide the window
-        for (int i = k; i < n; i++) {
-            windowsum += arr[i] - arr[i - k];
-            if (windowsum / k >= threshold) {
-                count++;
+            for(int i = k; i < n; i++){
+                windowsum += arr[i] - arr[i - k];
+                if(windowsum/k >= threshold){
+                   count = count + 1;
+                }
             }
-        }
-
-        return count;
+            return count;
+        
     }
 }
