@@ -74,6 +74,7 @@
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -184,6 +185,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
