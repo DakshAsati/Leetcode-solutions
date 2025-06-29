@@ -1,34 +1,53 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
 
-        int start = 0, maxLen = 0;
+        if(s.length() <= 1){
+            return s;
 
-        for (int i = 0; i < s.length(); i++) {
-            // Odd length palindrome
-            int left = i, right = i;
-            while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-                if (right - left + 1 > maxLen) {
-                    start = left;
-                    maxLen = right - left + 1;
-                }
-                left--;
-                right++;
-            }
-
-            // Even length palindrome
-            left = i;
-            right = i + 1;
-            while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-                if (right - left + 1 > maxLen) {
-                    start = left;
-                    maxLen = right - left + 1;
-                }
-                left--;
-                right++;
-            }
         }
+            String LPS = "";
 
-        return s.substring(start, start + maxLen);
-    }
-}
+            for(int i = 1; i < s.length(); i++){
+
+                int low = i;
+                int high = i;
+
+                while(s.charAt(low) == s.charAt(high)){
+                    low--;
+                    high++;
+
+
+                    if(low == -1 || high == s.length())
+                    break;
+                }
+
+              String Palindrome = s.substring(low +1 , high);
+              if(Palindrome.length() > LPS.length()){
+                LPS = Palindrome;
+              }
+
+              low = i - 1;
+              high =  i;
+              while(s.charAt(low) == s.charAt(high)){
+                low--;
+                high++;
+
+                if(low == -1 || high == s.length())
+                break;
+              }
+
+              Palindrome = s.substring(low + 1, high);
+              if(Palindrome.length() > LPS.length()){
+                LPS = Palindrome;
+              }
+
+            }
+              return LPS;
+            }
+
+        }
+            
+        
+
+        
+    
