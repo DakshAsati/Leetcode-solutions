@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -276,6 +277,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
