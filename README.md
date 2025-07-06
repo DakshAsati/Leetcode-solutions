@@ -79,6 +79,7 @@
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -139,6 +140,7 @@
 | [0042-trapping-rain-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
