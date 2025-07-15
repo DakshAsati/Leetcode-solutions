@@ -13,16 +13,11 @@ class Solution {
             if(map.containsKey(c)){
                 if(start <= map.get(c)){
                     start = map.get(c) + 1;
-
                 }
             }
-
             len = Math.max(len, end - start + 1);
             map.put(c,end);
         }
-        
-
         return len;
-        
     }
 }
