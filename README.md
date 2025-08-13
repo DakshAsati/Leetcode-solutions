@@ -37,6 +37,7 @@
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -310,6 +311,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
