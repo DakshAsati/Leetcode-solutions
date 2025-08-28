@@ -475,4 +475,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
