@@ -1,43 +1,38 @@
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
-        Queue<Pair> queue = new LinkedList<>();
+        int rows = mat.length;
+        int cols = mat[0].length;
+        int[][] directions = {{0,1}, {0,-1}, {1,0}, {-1,0}};
+        Queue<int[]> queue = new ArrayDeque<>();
 
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                if (mat[i][j] == 0) {
-                    queue.add(new Pair(i, j));
-                } else {
-                    mat[i][j] = -1; // Mark unprocessed cells
+
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < cols; j++){
+                if(mat[i][j] == 0){
+                    queue.add(new int[]{i,j});
+                }else{
+                    mat[i][j] = Integer.MAX_VALUE;
                 }
             }
         }
 
-        int[][] dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        while(!queue.isEmpty()){
+            int[] cell = queue.poll();
+            int row = cell[0];
+            int col = cell[1];
 
-        while (!queue.isEmpty()) {
-            Pair rem = queue.poll();
+            for(int[] direction : directions){
+                int newRow = row + direction[0];
+                int newCol = col + direction[1];
 
-            for (int i = 0; i < dirs.length; i++) {
-                int rowdash = rem.x + dirs[i][0];
-                int coldash = rem.y + dirs[i][1];
 
-                if (rowdash >= 0 && coldash >= 0 && rowdash < mat.length && coldash < mat[0].length && mat[rowdash][coldash] == -1) {
-                    queue.add(new Pair(rowdash, coldash));
-                    mat[rowdash][coldash] = mat[rem.x][rem.y] + 1;
+  if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && mat[newRow][newCol] > mat[row][col] + 1) {
+                    mat[newRow][newCol] = mat[row][col] + 1;
+                    queue.add(new int[]{newRow, newCol});
                 }
             }
         }
-        return mat;
-    }
 
-    static class Pair {
-        int x, y;
-        Pair(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
+        return mat;        
     }
 }
