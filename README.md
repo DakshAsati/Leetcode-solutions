@@ -399,6 +399,7 @@
 | [0547-number-of-provinces](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,12 +435,14 @@
 | [0547-number-of-provinces](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -525,9 +528,14 @@
 | [0210-course-schedule-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
