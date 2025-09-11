@@ -22,7 +22,7 @@ class Solution {
         int right = arr.size() - 1;
 
 
-        while(left < right){
+        while(left <= right){
             int mid = left + (right - left) / 2;
 
 
