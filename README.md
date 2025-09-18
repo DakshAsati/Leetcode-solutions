@@ -17,6 +17,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -119,6 +120,7 @@
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -237,6 +239,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Design
 |  |
@@ -299,6 +303,7 @@
 | [0053-maximum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -446,12 +451,14 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -542,4 +549,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
