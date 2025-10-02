@@ -50,6 +50,7 @@
 | [2050-count-good-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Sorting
 |  |
 | ------- |
