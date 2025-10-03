@@ -125,6 +125,7 @@
 | [0303-range-sum-query-immutable](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -282,6 +283,7 @@
 | [0130-surrounded-regions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -446,6 +448,7 @@
 | [0200-number-of-islands](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0684-redundant-connection) |
@@ -458,6 +461,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
