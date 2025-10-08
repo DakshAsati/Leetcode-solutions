@@ -158,6 +158,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -229,6 +230,7 @@
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
@@ -345,6 +348,7 @@
 | [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
 |  |
 | ------- |
