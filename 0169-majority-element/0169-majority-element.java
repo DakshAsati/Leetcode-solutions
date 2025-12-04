@@ -16,8 +16,7 @@ class Solution {
             }
         }
 
-            return candidate;
-        }
+        return candidate;
         
-    
+    }
 }
