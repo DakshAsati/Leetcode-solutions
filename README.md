@@ -159,6 +159,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -246,6 +247,7 @@
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
