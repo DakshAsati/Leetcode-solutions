@@ -104,6 +104,7 @@
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -526,6 +527,7 @@
 | [0022-generate-parentheses](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
 ## Combinatorics
 |  |
@@ -543,6 +545,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
