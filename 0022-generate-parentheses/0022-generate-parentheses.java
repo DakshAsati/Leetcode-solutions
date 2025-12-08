@@ -1,9 +1,8 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        solve("", 0,0, n,ans);
+        solve("", 0,0,n,ans);
         return ans;
-
         
     }
 
@@ -12,13 +11,12 @@ class Solution {
             ans.add(curr);
             return;
         }
-
         if(open < total){
-            solve(curr + "(", open +1, closed, total, ans);
+            solve(curr + "(", open + 1, closed, total,ans);
         }
         if(closed < open){
             solve(curr + ")", open, closed + 1, total, ans);
-
         }
+
     }
 }
