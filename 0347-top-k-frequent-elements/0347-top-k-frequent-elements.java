@@ -3,13 +3,15 @@ class Solution {
         HashMap<Integer,Integer> counter = new HashMap<>();
         for(int n : nums){
             counter.put(n, counter.getOrDefault(n,0) + 1);
-
         }
-        PriorityQueue<Map.Entry<Integer,Integer>> heap = new PriorityQueue<>((a,b) -> Integer.compare(b.getValue(), a.getValue()));
+
+      PriorityQueue<Map.Entry<Integer, Integer>> heap =
+    new PriorityQueue<>((a, b) -> Integer.compare(b.getValue(), a.getValue()));
 
 
-        for(Map.Entry<Integer,Integer> entry : counter.entrySet()){
-            heap.offer(entry);
+
+        for(var e : counter.entrySet()){
+            heap.offer(e);
         }
 
         int[] res = new int[k];
