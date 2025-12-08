@@ -1,6 +1,5 @@
 class MyHashMap {
-    int[] map;
-
+        int[] map;
     public MyHashMap() {
         map = new int[10000000];
         
@@ -8,7 +7,7 @@ class MyHashMap {
     
     public void put(int key, int value) {
         map[key] = value + 1;
-        
+         
     }
     
     public int get(int key) {
