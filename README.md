@@ -73,6 +73,7 @@
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -111,6 +112,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -315,6 +317,7 @@
 | [0063-unique-paths-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
@@ -441,6 +444,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0101-symmetric-tree) |
@@ -548,6 +552,7 @@
 | [0040-combination-sum-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
 ## Combinatorics
