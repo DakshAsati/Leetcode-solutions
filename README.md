@@ -135,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -249,6 +250,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
