@@ -5,20 +5,23 @@ class Solution {
         return result;
         
     }
-    private void backtrack(int[] cand, int start, int target, List<Integer> list, List<List<Integer>> result){
-        if(target < 0)
-        return;
 
-        if(target == 0){
-            result.add(new ArrayList<>(list));
-            return;
-        }
+    private void backtrack(int[] candidates, int start, int target, List<Integer> list , List<List<Integer>> result){
 
-        for(int i = start; i < cand.length; i++){
-            list.add(cand[i]);
-            backtrack(cand,i,target - cand[i],list,result);
-            list.remove(list.size() - 1);
-        }
+    if(target < 0) return;
+
+    if(target == 0){
+        result.add(new ArrayList<>(list));
 
     }
+
+    for(int i = start; i < candidates.length; i++){
+        list.add(candidates[i]);
+        backtrack(candidates, i, target - candidates[i], list, result);
+        list.remove(list.size() - 1);
+    }
+
+    }
+
+
 }
