@@ -3,39 +3,42 @@ class Solution {
         int rows = board.length;
         int cols = board[0].length;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (dfs(board, word, i, j, 0)) {
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < cols; j++){
+                if(word(board, word,i ,j, 0)){
                     return true;
                 }
             }
+
         }
+            return false;
+        
+
+
+        
+    }
+    private boolean word(char[][] board, String word,int rows, int cols, int index){
+
+    if(index == word.length())return true;
+
+    if(rows < 0 || cols < 0 || rows >= board.length || cols >= board[0].length || board[rows][cols] != word.charAt(index)){
         return false;
     }
 
-    private boolean dfs(char[][] board, String word, int row, int col, int index) {
-        // If full word is matched
-        if (index == word.length()) return true;
+    char temp = board[rows][cols];
+    board[rows][cols] = '#';
 
-        // Boundary or mismatch check
-        if (row < 0 || col < 0 || row >= board.length || col >= board[0].length 
-            || board[row][col] != word.charAt(index)) {
-            return false;
-        }
 
-        // Mark visited
-        char temp = board[row][col];
-        board[row][col] = '#';
 
-        // Explore all directions
-        boolean found = dfs(board, word, row + 1, col, index + 1) ||
-                        dfs(board, word, row - 1, col, index + 1) ||
-                        dfs(board, word, row, col + 1, index + 1) ||
-                        dfs(board, word, row, col - 1, index + 1);
 
-        // Backtrack
-        board[row][col] = temp;
+    boolean dfs = word(board, word, rows + 1 , cols ,index + 1)||
+                  word(board, word, rows - 1, cols, index + 1)||
+                  word(board, word, rows , cols + 1, index + 1)||
+                  word(board, word, rows, cols - 1, index + 1);
 
-        return found;
-    }
+                  board[rows][cols] = temp;
+
+                  return dfs;
+}
+
 }
