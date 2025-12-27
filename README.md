@@ -28,6 +28,7 @@
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -161,6 +162,7 @@
 | [0739-daily-temperatures](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0890-lemonade-change) |
