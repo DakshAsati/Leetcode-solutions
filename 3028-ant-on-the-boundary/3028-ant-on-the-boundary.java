@@ -3,18 +3,16 @@ class Solution {
         int n = nums.length;
         int count = 0;
         int[] prefix = new int[n];
+        prefix[0] = nums[0];
 
-        for(int i = 0; i < n; i++){
-            if(i == 0){
-                prefix[i] = nums[i];
-            }else{
+        for(int i = 1; i <= n - 1; i++){
                 prefix[i] = prefix[i - 1] + nums[i];
 
                 if(prefix[i] == 0){
                     count++;
                 }
                 
-            }
+            
     
         }
         return count;
