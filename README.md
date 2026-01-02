@@ -30,6 +30,7 @@
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -174,6 +175,7 @@
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
