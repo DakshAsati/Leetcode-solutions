@@ -198,6 +198,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -256,6 +257,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -402,6 +404,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
