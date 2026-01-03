@@ -233,6 +233,7 @@
 | [0867-new-21-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
