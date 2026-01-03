@@ -199,6 +199,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -258,6 +259,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
