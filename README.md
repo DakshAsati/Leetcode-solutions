@@ -185,6 +185,7 @@
 | [1390-four-divisors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -239,6 +240,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
