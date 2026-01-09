@@ -29,6 +29,7 @@
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -492,6 +493,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -518,6 +520,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -537,6 +540,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -561,6 +565,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Heap (Priority Queue)
