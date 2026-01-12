@@ -54,6 +54,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0867-new-21-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -184,6 +185,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -708,4 +710,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
