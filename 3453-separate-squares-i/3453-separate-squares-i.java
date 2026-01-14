@@ -1,6 +1,6 @@
 class Solution {
     public double separateSquares(int[][] squares) {
-        double low = Double.MAX_VALUE;
+        double low = Double.POSITIVE_INFINITY;
         double high = Double.NEGATIVE_INFINITY;
         double totalArea = 0.0;
 
@@ -14,7 +14,7 @@ class Solution {
 
         double target = totalArea / 2.0;
 
-        for (int iter = 0; iter < 100; iter++) { 
+        for (int i = 0; i < 100; i++) {
             double mid = (low + high) / 2.0;
             double areaBelow = 0.0;
 
@@ -23,16 +23,13 @@ class Solution {
                 double l = sq[2];
                 double top = bottom + l;
 
-               if(mid <= bottom)continue;
-               if(mid >= top) areaBelow += l * l;
-               else areaBelow += (mid - bottom) * l;
+                if (mid <= bottom) continue;
+                if (mid >= top) areaBelow += l * l;
+                else areaBelow += (mid - bottom) * l;
             }
 
-            if (areaBelow < target) {
-                low = mid;
-            } else {
-                high = mid;     
-            }
+            if (areaBelow < target) low = mid;
+            else high = mid;
         }
 
         return high;
