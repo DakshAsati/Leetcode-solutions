@@ -208,6 +208,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -338,6 +339,7 @@
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
