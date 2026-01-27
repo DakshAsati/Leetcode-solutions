@@ -614,6 +614,7 @@
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
 | ------- |
@@ -721,6 +722,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -764,4 +766,8 @@
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
