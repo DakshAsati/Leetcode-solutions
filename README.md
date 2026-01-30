@@ -100,6 +100,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -266,6 +268,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
@@ -730,6 +733,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
@@ -740,6 +744,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -779,5 +784,6 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
