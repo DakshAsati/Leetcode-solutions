@@ -557,6 +557,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -602,6 +603,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -660,6 +662,7 @@
 | [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
+| [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -774,6 +777,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
