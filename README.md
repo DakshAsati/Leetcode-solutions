@@ -178,6 +178,7 @@
 | [0724-find-pivot-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
@@ -466,6 +467,7 @@
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
