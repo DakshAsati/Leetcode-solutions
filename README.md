@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0326-power-of-three) |
@@ -86,6 +87,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
@@ -697,6 +700,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
