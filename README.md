@@ -58,6 +58,7 @@
 | [0342-power-of-four](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0867-new-21-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -705,6 +706,7 @@
 | [0090-subsets-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
