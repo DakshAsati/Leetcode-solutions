@@ -72,6 +72,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -634,6 +636,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -811,6 +814,7 @@
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -818,4 +822,8 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
