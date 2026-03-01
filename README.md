@@ -67,6 +67,7 @@
 | [1448-maximum-69-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2050-count-good-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -349,6 +350,7 @@
 | [0289-game-of-life](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
@@ -718,6 +720,7 @@
 | [0868-binary-gap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
