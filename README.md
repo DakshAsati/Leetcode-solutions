@@ -107,6 +107,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
