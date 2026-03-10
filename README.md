@@ -287,6 +287,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
@@ -313,6 +314,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
