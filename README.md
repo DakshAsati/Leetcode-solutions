@@ -66,6 +66,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1622-fancy-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2050-count-good-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -411,6 +412,7 @@
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1622-fancy-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -805,6 +807,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
