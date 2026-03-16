@@ -69,6 +69,7 @@
 | [1622-fancy-sequence](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2050-count-good-numbers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -219,6 +220,7 @@
 | [1833-find-the-highest-altitude](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -309,6 +311,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2102-find-the-middle-index-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -387,6 +390,7 @@
 | [0941-sort-array-by-parity](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -437,6 +441,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -658,6 +663,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
