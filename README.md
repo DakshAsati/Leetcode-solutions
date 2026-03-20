@@ -251,6 +251,7 @@
 | [3453-separate-squares-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -400,6 +401,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
@@ -450,6 +452,7 @@
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
