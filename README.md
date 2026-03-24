@@ -236,6 +236,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2906-construct-product-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -322,6 +323,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2906-construct-product-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3028-ant-on-the-boundary](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -453,6 +455,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
