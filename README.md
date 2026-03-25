@@ -253,6 +253,7 @@
 | [3453-separate-squares-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -329,6 +330,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -457,6 +459,7 @@
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -841,6 +844,7 @@
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
