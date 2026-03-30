@@ -37,6 +37,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -114,6 +115,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -408,6 +410,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
