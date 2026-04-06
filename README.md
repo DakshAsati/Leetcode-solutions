@@ -214,6 +214,7 @@
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1390-four-divisors) |
@@ -464,6 +465,7 @@
 | [0733-flood-fill](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -682,6 +684,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
