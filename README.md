@@ -878,5 +878,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
