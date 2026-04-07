@@ -233,6 +233,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1975-maximum-matrix-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2102-find-the-middle-index-in-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -589,6 +590,7 @@
 | [0739-daily-temperatures](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -723,6 +725,7 @@
 | [0739-daily-temperatures](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Memoization
 |  |
