@@ -611,6 +611,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -635,6 +636,7 @@
 | [0200-number-of-islands](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0684-redundant-connection) |
@@ -661,6 +663,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -717,6 +720,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
