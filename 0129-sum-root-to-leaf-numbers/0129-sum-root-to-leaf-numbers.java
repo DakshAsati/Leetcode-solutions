@@ -15,32 +15,30 @@
  */
 class Solution {
 
- 
- 
-   int sum = 0;
+    int sum = 0;
     public int sumNumbers(TreeNode root) {
 
- 
-        sum(root,0);
-        return sum;
-
+        helper(root,0);
+        return sum ;
+        
     }
-       void  sum(TreeNode node, int res){
+
+    public void helper(TreeNode node, int res){
+
         if(node == null) return;
 
-        res = res* 10 + node.val;
+      
+        res = res * 10 + node.val;
 
         if(node.left == null && node.right == null){
             sum += res;
         }
 
-        sum(node.left,res);
-        sum(node.right, res);
-
-
-       
-
-
+        helper(node.left, res);
+        helper(node.right, res);
         
+
+
+
     }
 }
