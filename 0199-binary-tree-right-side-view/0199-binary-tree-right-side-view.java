@@ -13,31 +13,36 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
+     List<Integer> list = new ArrayList<>();
+        if(root == null) return list;
 
-        List<Integer> result = new ArrayList<>();
-        if(root == null) return result;
+        
 
         Queue<TreeNode> q = new LinkedList<>();
+
         q.add(root);
 
         while(!q.isEmpty()){
-            int currsize = q.size();
-            int lastValue = -1; 
-            for(int i = 0; i < currsize; i++){
-                TreeNode node = q.poll();
-                lastValue = node.val;  
+            int size = q.size();
+        
 
-                if(node.left != null) q.add(node.left);
-                if(node.right != null) q.add(node.right);
+        for(int i = 0; i < size; i++){
+            TreeNode node = q.poll();
+
+
+            if(node.left != null) q.add(node.left);
+            if(node.right != null) q.add(node.right);
+
+
+            if(i == size - 1){
+                list.add(node.val);
             }
-
-            result.add(lastValue); 
         }
 
-        return result;
+    }
+        return list;
+        
     }
 }
