@@ -624,6 +624,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -658,6 +659,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -711,6 +713,7 @@
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -908,6 +911,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
