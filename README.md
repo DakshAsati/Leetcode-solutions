@@ -101,6 +101,7 @@
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -808,6 +809,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Merge Sort
 |  |
 | ------- |
@@ -863,6 +865,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Radix Sort
@@ -917,4 +920,8 @@
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/DakshAsati/Leetcode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
