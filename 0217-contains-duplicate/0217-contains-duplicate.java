@@ -1,31 +1,17 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 
+        HashSet<Integer> set = new HashSet<>();
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(int i = 0; i < nums.length; i++){
-            if(map.containsKey(nums[i])){
+        for(int seen : nums){
+            if(set.contains(seen)){
                 return true;
             }
+            set.add(seen);
 
-            map.put(nums[i],i);
         }
 
         return false;
-
-       
-
+        
     }
-    }
-
-
-/* 
-
-use arrays
-sort it
-iterate on array
-check whether i == i + 1 or not and i == i - 1 or not
-return true or false based on condintipon
-
-**/
+}
