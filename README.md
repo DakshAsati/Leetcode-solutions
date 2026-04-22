@@ -440,6 +440,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
@@ -591,6 +592,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -928,4 +930,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
