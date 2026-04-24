@@ -33,6 +33,7 @@
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -212,6 +213,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -322,6 +324,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
