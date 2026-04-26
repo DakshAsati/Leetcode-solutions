@@ -1,33 +1,37 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        int n = s.length();
-        int m = p.length();
-        if(n<m)
-        return new ArrayList();
 
-        int[] pfreq = new int[26];
-        int[] sfreq = new int[26];
+        List<Integer> res = new ArrayList<>();
 
-        for(int i = 0; i < m; i++){
-            pfreq[p.charAt(i) - 'a']++;
+        HashMap<Character, Integer> pMap = new HashMap<>();
+        HashMap<Character, Integer> sMap = new HashMap<>();
+
+        for (char c : p.toCharArray()) {
+            pMap.put(c, pMap.getOrDefault(c, 0) + 1);
         }
-        for(int i = 0; i <m;i++){
-            sfreq[s.charAt(i) - 'a']++;
-        }
-        List<Integer> result = new ArrayList();
 
+        int k = p.length();
 
-        for(int i = m; i < n; i++){
-            if(Arrays.equals(pfreq,sfreq)){
-                result.add(i-m);
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+            sMap.put(ch, sMap.getOrDefault(ch, 0) + 1);
+
+            if (i >= k) {
+                char left = s.charAt(i - k);
+
+                if (sMap.get(left) == 1) {
+                    sMap.remove(left);
+                } else {
+                    sMap.put(left, sMap.get(left) - 1);
+                }
             }
-            sfreq[s.charAt(i) - 'a']++;
-            sfreq[s.charAt(i-m) - 'a']--;
-        }
-        if(Arrays.equals(pfreq,sfreq)){
-            result.add(n-m);
-        }
-           return result;
 
+            if (sMap.equals(pMap)) {
+                res.add(i - k + 1);
+            }
+        }
+
+        return res;
     }
 }
