@@ -13,13 +13,12 @@ class Solution {
             map.put(nums[i], count);
 
             
-            if(count > max){
-                max = count;
-                result = nums[i];
+            if(count > n / 2){
+                return nums[i];
             }
         }
 
-        return result;
+    return 0;
            
     }
 }
