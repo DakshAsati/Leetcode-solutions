@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -109,6 +110,7 @@
 | [0125-valid-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
