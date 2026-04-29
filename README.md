@@ -18,6 +18,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@
 | [0076-minimum-window-substring](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0290-word-pattern) |
