@@ -1,13 +1,14 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-      mp = {}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
 
-      for i in range(len(nums)):
-            complement = target - nums[i]
+       mp = {}
 
-            if complement in mp:
-                return [mp[complement], i]
 
-            mp[nums[i]] = i
+       for i, num in enumerate(nums):
+        complement = target - num
 
-      return [-1, -1]
+
+        if complement in mp:
+            return [mp[complement],i]
+
+        mp[num] = i
