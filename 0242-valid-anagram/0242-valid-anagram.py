@@ -1,6 +1,7 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 
+
         map1 = {}
         map2 = {}
 
@@ -18,3 +19,5 @@ class Solution:
             return False
 
 
+        
+        
