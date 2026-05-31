@@ -1,21 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
+        mp = {}
 
-        n = len(nums)
+        for i, num in enumerate(nums):
+            complement = target - num
 
-        for i in range(n):
-            for j in range(n):
+            if complement in mp:
+                return [mp[complement], i]
 
-
-                if i == j:
-                    continue
-
-                sum = nums[i] + nums[j]
-
-                if sum == target:
-                    return [i,j]
-
-        return [-1,-1]
-
-            
+            mp[num] = i
