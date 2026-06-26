@@ -1,7 +1,7 @@
 select customer_id,
-COUNT(*) as count_no_trans
-from Visits as vis
+COUNT(*)  as count_no_trans
+from Visits as v
 left join Transactions as ts
-on vis.visit_id = ts.visit_id
+on v.visit_id = ts.visit_id
 where transaction_id is NULL
-group by vis.customer_id;
+group by v.customer_id;
