@@ -5,7 +5,7 @@
 -- group by  machine_id
 
 
-select a1.machine_id,
+select a2.machine_id,
 ROUND(AVG(a2.timestamp - a1.timestamp), 3) as processing_time
 from Activity a1
 join Activity a2
