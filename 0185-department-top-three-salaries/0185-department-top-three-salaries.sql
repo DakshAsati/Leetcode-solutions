@@ -7,5 +7,5 @@ FROM (
     FROM Employee e
 ) e
 JOIN Department d
-  ON e.departmentId = d.id
-WHERE e.rank_num <= 3;
+on e.departmentId = d.id
+where e.rank_num <= 3;
