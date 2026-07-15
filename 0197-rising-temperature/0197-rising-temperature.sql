@@ -1,14 +1,16 @@
+-- first take the record of previois date and temp
+-- then compare it 
+-- use date diff for finding exact one day before date
+
 select id
-from (
+from(
     select id,
     recordDate,
-    temperature,
+    temperature ,
     LAG(recordDate) OVER(ORDER BY recordDate) as prev_date,
     LAG(temperature) OVER(ORDER BY recordDate) as prev_temp
     from Weather
+
 )x
-where prev_temp <  temperature   and DATEDIFF(recordDate, prev_date) = 1;
 
-
--- find high  temp with compare to previous temp
--- previous temp sirf ek din pehle ka
+where temperature  > prev_temp and DATEDIFF(recordDate, prev_date) = 1;
