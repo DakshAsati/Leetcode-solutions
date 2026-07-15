@@ -1,4 +1,7 @@
-select unique_id, name
+--  for unique id of user 
+--  
+
+select unique_id,name
 from Employees as emp
-left join EmployeeUNI as emp_uni
-on emp.id = emp_uni.id ;
+left join  EmployeeUNI as empuni
+on emp.id = empuni.id;
