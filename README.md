@@ -32,6 +32,7 @@
 | [0523-continuous-subarray-sum](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0822-card-flipping-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0822-card-flipping-game) |
@@ -206,6 +207,7 @@
 | [0542-01-matrix](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0679-24-game) |
 | [0705-design-hashset](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -430,6 +432,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -455,6 +458,7 @@
 | [0229-majority-element-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -518,6 +522,7 @@
 | [0402-remove-k-digits](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -750,6 +755,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/DakshAsati/Leetcode-solutions/tree/master/0794-swim-in-rising-water) |
