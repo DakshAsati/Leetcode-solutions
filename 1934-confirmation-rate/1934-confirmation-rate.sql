@@ -1,11 +1,5 @@
 select s.user_id,
-ROUND(
-    AVG(
-        CASE WHEN c.action = 'confirmed' then 1 else 0 end
-
-    ), 2
-) as confirmation_rate
-
+ROUND(AVG(CASE when c.action = 'confirmed' then 1 else 0 end), 2) as confirmation_rate
 from Signups as s
 left join Confirmations as c
 on s.user_id = c.user_id
