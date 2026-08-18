@@ -1,18 +1,16 @@
-SELECT 
-        ROUND(SUM( case when d.order_date = d.customer_pref_delivery_date
-        then 1 else 0
-        end
-        ) * 100.0 / COUNT(*),2) as immediate_percentage
+select 
+    ROUND(SUM(case when d.order_date = d.customer_pref_delivery_date then 1 else 0 end) *100.0 / COUNT(*),2) as immediate_percentage
 
 
-        from Delivery d
-        JOIN(
-            SELECT 
-                    customer_id,
-                    MIN(order_date) as first_order
-                    from Delivery
-                    group by customer_id
+    from Delivery d
+    JOIN(
+        SELECT
+                customer_id,
+                MIN(order_date) as first_order
+                from Delivery
+                group by customer_id
 
-        )f
- on d.customer_id = f.customer_id
+    )f
+
+    on d.customer_id = f.customer_id
     and d.order_date = f.first_order;
